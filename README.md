@@ -10,7 +10,7 @@ A perfunctory look at the graph of total weekly fares based on city type shows a
 
 A look a the total weekly fares graph also shows that fares for urban and suburban cities begin to rise after January 1st, with urban fares continuing to increase into February while suburban fares dip beginning in the end of January. Rural fares stay consistently under $500/week. All 3 city types see a jump in fares the third week of February, with suburban and rural cities seeing the largest percent increase (35% and 337% respectively). See graph below.
 
-!["Total Fares by city Type"](https://github.com/conorwhanson/PyBer_Analysis/blob/main/analysis/PyberPlot1.png)
+!["Total Fares by city Type"](https://github.com/conorwhanson/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary and Recommendations
 
